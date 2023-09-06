@@ -63,8 +63,6 @@
     }
   }],
   "buildpacks": [{
-    "url": "https://github.com/danzzcoding/heroku-buildpack-ffmpeg-latest"
-  },{
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
   },{
     "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
